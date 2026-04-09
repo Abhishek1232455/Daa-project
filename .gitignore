@@ -1,0 +1,25 @@
+# Dependencies
+node_modules
+/backend/node_modules
+
+# Build outputs
+dist
+dist-ssr
+/backend/src/*.exe
+/backend/src/*.out
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode
+.idea
+
+# Local env
+.env
+.env.local
